@@ -1,0 +1,26 @@
+Asunto: Requerimiento de pago de prestación económica No. $numero - $colaborador
+
+Señores
+$entidad
+
+Ref.: Cobro de $tipo del colaborador $colaborador (documento $documento),
+del $fecha_inicio al $fecha_fin ($dias días).
+Valor pendiente aproximado: $valor_pendiente
+
+Respetados señores:
+
+$empresa se permite requerir el reconocimiento y pago de la prestación económica
+de la referencia, la cual fue radicada el $fecha_cobro.
+
+Fundamentos de hecho:
+[COMPLETAR: hechos del caso, fecha de radicación y respuesta de la entidad]
+
+Fundamentos de derecho:
+[COMPLETAR CON EL ÁREA JURÍDICA: normas que sustentan el reconocimiento y pago]
+
+Solicitamos el pago a la cuenta que indique la Tesorería de $empresa.
+
+Atentamente,
+
+Administración de Personal
+$empresa

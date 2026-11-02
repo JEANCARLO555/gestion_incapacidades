@@ -1,0 +1,18 @@
+Asunto: Documentación pendiente de su incapacidad ($numero_llamado)
+
+Cordial saludo, $nombre:
+
+Revisamos la documentación de su $tipo (del $fecha_inicio al $fecha_fin, entidad $entidad)
+y encontramos que está incompleta. Falta lo siguiente:
+
+$faltantes
+
+De acuerdo con el procedimiento de incapacidades, usted tiene 3 días hábiles para hacer
+llegar la documentación, es decir, hasta el $fecha_limite.
+
+$aviso_adicional
+
+Quedamos atentos.
+
+Administración de Personal
+$empresa

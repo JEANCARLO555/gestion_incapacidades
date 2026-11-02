@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+openpyxl>=3.1        # reportes en Excel
+holidays>=0.50       # festivos de Colombia para los días hábiles
+anthropic>=0.40      # opcional: solo para las preguntas con IA (módulo ia)
+pytest>=8.0          # pruebas

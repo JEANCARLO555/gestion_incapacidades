@@ -1,0 +1,30 @@
+Asunto: Derecho de petición - Reconocimiento económico de incapacidad - $colaborador
+
+Señores
+$entidad
+
+Ref.: Derecho de petición (artículo 23 de la Constitución Política)
+Colaborador: $colaborador (documento $documento)
+Prestación: $tipo del $fecha_inicio al $fecha_fin ($dias días)
+
+$empresa, en ejercicio del derecho de petición, solicita el reconocimiento y pago de la
+prestación económica de la referencia, toda vez que la causal invocada para negarla
+o el incumplimiento en el pago no tiene sustento.
+
+Motivo del cobro jurídico: $motivo
+
+Fundamentos de hecho:
+[COMPLETAR: cronología del caso y gestiones de cobro realizadas]
+
+Fundamentos de derecho:
+[COMPLETAR CON EL ÁREA JURÍDICA]
+
+Petición:
+Reconocer y pagar la prestación económica descrita, dentro de los términos legales.
+
+Notificaciones: [COMPLETAR dirección y correo de $empresa]
+
+Atentamente,
+
+Área Jurídica
+$empresa
