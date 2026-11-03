@@ -4,9 +4,7 @@ Gestión de incapacidades · punto de entrada.
 Ejecutar con:   streamlit run app.py
 """
 import importlib
-
 import streamlit as st
-
 import pandas as pd
 
 from config import responsables
@@ -26,6 +24,7 @@ st.sidebar.caption("⚠️ Sin inicio de sesión real: el rol se elige a mano (v
 menu = {clave: etiqueta for clave, etiqueta, _ in REGISTRO if seguridad.puede_ver_modulo(rol, clave)}
 menu["_proceso"] = "📋 Proceso (16 pasos)"
 menu["_notificaciones"] = "📨 Notificaciones"
+
 if rol in seguridad.ROLES_VEN_AUDITORIA:
     menu["_auditoria"] = "🕵️ Auditoría"
 pagina = st.sidebar.radio("Módulo", list(menu), format_func=menu.get, key="app_pagina")
