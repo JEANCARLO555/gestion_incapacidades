@@ -156,6 +156,6 @@ comandos para integrar modelo de IA
 -modelo de IA (Qwen 2.5) en la terminal pegar de VS: ollama run qwen2.5:1.5b
 -Para salir cuando diga sucess: /exit
 
-
+IMPORTANTE:
 -ejecutar en la terminal: cd gestion_incapacidades
 -ir al programa en la terminal: streamlit run app.py
