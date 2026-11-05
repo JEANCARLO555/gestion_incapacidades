@@ -159,3 +159,25 @@ comandos para integrar modelo de IA
 IMPORTANTE:
 -ejecutar en la terminal: cd gestion_incapacidades
 -ir al programa en la terminal: streamlit run app.py
+
+CODIGOS:
+la version= py -3.12 --versión
+
+agregar para las lbrerias= py -3.12 -m venv .venv
+
+agregar las librerias= .\.venv\Scripts\python -m pip install -r requirements.txt
+
+correr la aplicasion= (.\.venv\Scripts\python -m streamlit run app.py)  (copiar lo que esta dentro del paréntesis)
+
+este es para abrir el block de notas para enviar el correo
+   Copy-Item .env.example .env
+   notepad .env
+
+
+pip uninstall pyarrow -y
+pip install --force-reinstall pyarrow
+
+
+pip install --force-reinstall -r requirements.txt
+
+streamlit run app.py
