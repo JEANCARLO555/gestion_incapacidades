@@ -148,3 +148,14 @@ el proyecto: hay que llevarse juntas las carpetas `data/` y `archivos_digitales/
 - Lectura automática de certificados (OCR) para llenar la recepción.
 - Carga masiva de pagos desde el Excel de Contabilidad.
 - Completar el nombre de la empresa (`NOMBRE_EMPRESA`) y los correos reales.
+
+
+comandos para integrar modelo de IA
+
+-instalar ollama desde la terminal de VS: irm https://ollama.com/install.ps1 | iex
+-modelo de IA (Qwen 2.5) en la terminal pegar de VS: ollama run qwen2.5:1.5b
+-Para salir cuando diga sucess: /exit
+
+
+-ejecutar en la terminal: cd gestion_incapacidades
+-ir al programa en la terminal: streamlit run app.py
