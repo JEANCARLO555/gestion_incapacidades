@@ -239,3 +239,5 @@ def render(sesion) -> None:
         else:
             st.success(f"⚙️ **{res.get('titulo', 'Instrucción procesada')}**")
             st.write(res.get("detalle") or res.get("mensaje") or "Procesado correctamente.")
+
+            
