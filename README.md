@@ -181,3 +181,5 @@ pip install --force-reinstall pyarrow
 pip install --force-reinstall -r requirements.txt
 
 streamlit run app.py
+
+INSTALAR PYTHON 3.12:   winget install Python.Python.3.12
